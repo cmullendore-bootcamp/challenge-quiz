@@ -1,0 +1,6 @@
+li {
+    list-style: none;
+}
+
+#answers .ui-selectee { background: #FECA40; }
+#answers .ui-selected { background: #F39814; color: white; }
