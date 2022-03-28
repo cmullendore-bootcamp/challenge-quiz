@@ -35,23 +35,86 @@
             ]
         },
         {
-            "text": "Ashton Kutcher got his start on a tv show called \"That _____ Show\" ?",
+            "text": "String values must be enclosed with:",
             "answers": [
                 {
                     "id": false,
-                    "text": "90's"
+                    "text": "Square Brackets"
                 },
                 {
                     "id": false,
-                    "text": "20's"
-                },
-                {
-                    "id": false,
-                    "text": "40's"
+                    "text": "Commas"
                 },
                 {
                     "id": true,
-                    "text": "70's"
+                    "text": "Quotes"
+                },
+                {
+                    "id": false,
+                    "text": "Parenthesis"
+                }
+            ]
+        },
+        {
+            "text": "Arrays in Javascript can be used to store:",
+            "answers": [
+                {
+                    "id": false,
+                    "text": "Numbers"
+                },
+                {
+                    "id": false,
+                    "text": "Arrays"
+                },
+                {
+                    "id": false,
+                    "text": "Booleans"
+                },
+                {
+                    "id": true,
+                    "text": "All of the above"
+                }
+            ]
+        },
+        {
+            "text": "The condition of an if/else statement is enclosed with:",
+            "answers": [
+                {
+                    "id": false,
+                    "text": "Quotes"
+                },
+                {
+                    "id": true,
+                    "text": "Parenthesis"
+                },
+                {
+                    "id": false,
+                    "text": "Curly Braces"
+                },
+                {
+                    "id": false,
+                    "text": "Square Brackets"
+                }
+            ]
+        },
+        {
+            "text": "Commonly used data types do NOT include:",
+            "answers": [
+                {
+                    "id": false,
+                    "text": "strings"
+                },
+                {
+                    "id": false,
+                    "text": "booleans"
+                },
+                {
+                    "id": true,
+                    "text": "alerts"
+                },
+                {
+                    "id": false,
+                    "text": "numbers"
                 }
             ]
         }
